@@ -36,7 +36,7 @@ This is a C++ program to view 3D wireframe models written in the C programming l
 
 ![3D_Viewer](/src/info/images/open_file.png)
 
-## Part 2. Bonus. Settings
+## Part 2. Settings
 
 - The program allows customizing the type of projection (parallel and central)
 - The program allows setting up the type (solid, dashed), color and thickness of the edges, display method (none, circle, square), color and size of the vertices
@@ -45,7 +45,7 @@ This is a C++ program to view 3D wireframe models written in the C programming l
 
 ![3D_Viewer](/src/info/images/color_settings.png)
 
-## Part 3. Bonus. Record
+## Part 3. Record
 
 - The program allows saving the captured (rendered) images as bmp and jpeg files.
 - The program allows recording small screencasts by a special button - the current custom affine transformation of the loaded object into gif-animation (640x480, 10fps, 5s)
